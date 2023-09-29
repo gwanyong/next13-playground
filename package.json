@@ -19,6 +19,7 @@
     "@types/node": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
+    "eslint-config-conermurphy": "^1.1.0",
     "postcss": "latest",
     "tailwindcss": "latest",
     "eslint": "latest",
